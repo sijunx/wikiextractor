@@ -1,0 +1,5 @@
+
+
+文件内容提取命令：
+
+python3 -m wikiextractor.WikiExtractor zhwiki-latest-pages-articles.xml.bz2
